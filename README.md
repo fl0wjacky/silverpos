@@ -1,5 +1,5 @@
-# silverpos
+# Kivy实现的POS系统
 
-#Introduction
+# 简介
 
-This repository is designed to host the code and all additional files required to successfully complete the POS system tutorials hosted on youtube
+此分支为本人在学习主分支过程中所敲下的代码
